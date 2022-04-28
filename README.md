@@ -12,9 +12,4 @@ Sorted by favourite XD
 [![typescript](https://img.shields.io/badge/-typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![css](https://img.shields.io/badge/-css-blue?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-
-## I'm working on...
-[FDPClient](https://github.com/UnlegitMC/FDPClient)  
-and other minecraft related projects!
-
 ![](https://github-readme-stats.vercel.app/api?username=liulihaocai&show_icons=true&theme=dracula)
