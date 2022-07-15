@@ -1,5 +1,5 @@
 # Hey, I'm KotoneMyWaifu (a.k.a. Liulihaocai)!
-My PGP public key before (used to verify my identity)
+My PGP public key below (used to verify my identity)
 ~~~
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
