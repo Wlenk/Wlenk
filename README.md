@@ -1,4 +1,26 @@
-# Hey, I'm hax0r31337! 👋
-I'm a self-taught backend developer who able to code Java, Kotlin, Go, JavaScript, Lua
+## Hey, I'm hax0r31337! 👋
+Just a self-taught developer.   
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hax0r31337&data=followers,repositories,stars)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=kotlin,js,ts,java,python,html,css,go,lua)](https://github.com/Jurredr/github-widgetbox)
+
+<details>
+<summary><b>Skills</b></summary>
+ - Java
+ - Kotlin
+ - Go
+ - C++
+ - TypeScript
+ - Lua
+ - Python3
+ - React
+ - Next.JS
+ - Jetpack Compose
+ - JVM Bytecode
+ - Gin
+</details>
+
+<details>
+<summary><b>My learning queue</b></summary>
+ - Rust
+ - Flutter/Dart
+ - UI Design
+</details>
