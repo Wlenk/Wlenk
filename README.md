@@ -4,23 +4,27 @@ Just a self-taught developer.
 
 <details>
 <summary><b>Skills</b></summary>
- - Java
- - Kotlin
- - Go
- - C++
- - TypeScript
- - Lua
- - Python3
- - React
- - Next.JS
- - Jetpack Compose
- - JVM Bytecode
- - Gin
+<ul>
+ <li>Java</li>
+ <li>Kotlin</li>
+ <li>Go</li>
+ <li>C++</li>
+ <li>TypeScript</li>
+ <li>Lua</li>
+ <li>Python3</li>
+ <li>React</li>
+ <li>Next.JS</li>
+ <li>Jetpack Compose</li>
+ <li>JVM Bytecode</li>
+ <li>Gin</li>
+</ul>
 </details>
 
 <details>
-<summary><b>My learning queue</b></summary>
- - Rust
- - Flutter/Dart
- - UI Design
+<summary><b>Learning queue</b></summary>
+<ul>
+ <li>Rust</li>
+ <li>Flutter/Dart</li>
+ <li>UI Design</li>
+</ul>
 </details>
