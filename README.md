@@ -1,6 +1,7 @@
 ## Hey, I'm Wlenk! 👋
 Just a self-taught developer.   
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Wlenk&data=followers,repositories,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,php,python,html,css,c,cpp,csharp,kotlin,xml,json,yaml,mysql,lua,visualbasic,x86,arm,markdown)](https://github.com/Jurredr/github-widgetbox)  
 <details>
 <summary><b>Organizations</b></summary>
 <ul>
@@ -16,6 +17,7 @@ Just a self-taught developer.
 <summary><b>Skills</b></summary>
 <ul>
  <li>Java</li>
+ <li>PHP</li>
  <li>Kotlin</li>
  <li>C++</li>
  <li>HTML</li>
